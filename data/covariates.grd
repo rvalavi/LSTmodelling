@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2019-10-29 18:03:03
+[georeference]
+nrows=1289
+ncols=1655
+xmin=505831.2189734
+ymin=3926408.4998677
+xmax=555481.2189734
+ymax=3965078.4998677
+projection=+proj=utm +zone=39 +datum=WGS84 +units=m +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=7
+bandorder=BIL
+minvalue=20.9704971313477:-0.215468242764473:933:-1:0:1:5027.8935546875
+maxvalue=52.4009552001953:0.611457824707031:2128:359.683441162109:7573.1435546875:6:12768.0615234375
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=LST:NDVI:DEM:Aspect:Road:LandUse:Solar
